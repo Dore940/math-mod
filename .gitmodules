@@ -1,0 +1,3 @@
+[submodule "matmod"]
+	path = matmod
+	url = https://github.com/Dore940/math-mod.git
